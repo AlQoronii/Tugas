@@ -1,4 +1,4 @@
-# Class Sepeda 
+Class Sepeda 
 
 ![](Aspose.Words.8ab76ae0-68a0-4cbc-be76-7cc5431cbdf4.001.jpeg)
 
