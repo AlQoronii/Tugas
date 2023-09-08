@@ -1,6 +1,6 @@
 ﻿Class Sepeda 
 
-<img src ="media/(Aspose.Words.8ab76ae0-68a0-4cbc-be76-7cc5431cbdf4.001.jpeg)>
+<img src = "media/aspose.words.8ab76ae0-68a0-4cbc-be76-7cc5431cbdf4.001.jpeg" class="img-responsive" alt= "">
 
 Class Main SepedaDemo 
 
